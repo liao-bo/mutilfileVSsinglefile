@@ -1,0 +1,4 @@
+sekey = {'name':'self.name',
+                    'age':self.age,
+                    'password':self.password,
+                    'user_id':self.user_id,
